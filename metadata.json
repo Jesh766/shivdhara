@@ -1,0 +1,6 @@
+{
+  "name": "SHIV DHARA",
+  "description": "SHIV DHARA by Falgun Thakkr — Numerology, Vastu, Meditation, Workshops, Spiritual Accessories and intelligent AI guide Dhara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
